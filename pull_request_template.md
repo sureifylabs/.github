@@ -1,4 +1,4 @@
-<!-- Please complete each section, as applicable -->
+<!-- Please complete each section below the # lines, as applicable -->
 
 <!-- Simple description, 1-2 lines -->
 # Description 
@@ -16,13 +16,11 @@
 
 
 <!-- To complete the checklist, replace [ ] with [x].
-     For tags, choose at least one from 
+     For labels, choose at least one from 
     - Ready for Review
     - WIP
     - don't merge  -->
 # PR Author Checklist
-
-
 - [ ] Unit tests added, already exist, or are not applicable
 - [ ] Added necessary label(s)
 - [ ] Assigned corresponding reviewer(s)
