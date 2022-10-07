@@ -1,86 +1,26 @@
-<!--
-    Thanks for contributing to sureifyLabs/ext-backend-identity repository.
-    To make sure this PR is easily processed, we will need you to fill in some
-    details below. 
+<!-- Please complete each section below the # lines, as applicable -->
 
-    Leverage GitHub Markdown syntax. For further details, visit https://guides.github.com/features/mastering-markdown/
-
-    Naming your branches:
-
-    Branch names must contain the following elements:
-    - type of change, i.e. bug, feature, config-change, refactor, etc.
-    - JIRA task id
-    - short description (hyphen separated)
-
-    For example: bug/JIRA-123/this-fixes-a-bug
- -->
-
-# Description
-
-<!--
-    Make sure your title describes why this PR exists in few simple words and 
-    keep this description short to 1-2 lines
--->
+<!-- Simple description, 1-2 lines -->
+# Description 
 
 
-
-
-
-# What's new?
-
-<!--
-    Add more details of what's changing in this PR. 
-    This will help reviewer(s) get a gist of what they're about to deal with.
--->
-
-
-
+<!-- Describe what changed -->
+# What's new? 
 
 
 # Jira Link(s)
 
-<!--
-    If this PR is part of a Jira ticket or a GitHub Issue, please mention the 
-    ticket here for the reference of the reviewer(s)
--->
 
-
-
-
-
-
+<!-- Add short screen recordings or screen shots -->
 # Demo / Screen Shot (as applicable)
 
-<!--
-    Add short clips of screen recording or screenshots to highlight the changes
-    you're about to add once this PR is merged.
--->
 
-
-
-
-
-
-<!--
-    Last, but not the least, assign necessary Labels to the PR
-    Pick from the set of available labels or create a new one if none of them matches your requirement.
-    Choose atleast one from 
+<!-- To complete the checklist, replace [ ] with [x].
+     For labels, choose at least one from 
     - Ready for Review
     - WIP
-    - don't merge
-
-    Pick corresponding reviewer(s) from list of contributors.
--->
-
+    - don't merge  -->
 # PR Author Checklist
-
-<!--
-    To complete the below checklist, replace [ ] with [x].
-    Example:
-    - [ ] I've read the Terms & Conditions
-    - [x] I've read the Terms & Conditions
--->
-
 - [ ] Unit tests added, already exist, or are not applicable
 - [ ] Added necessary label(s)
 - [ ] Assigned corresponding reviewer(s)
@@ -92,5 +32,5 @@
 
 <!--
     Notes to reviewers:
-    If any PR doesn't match the above mentioned, please feel free to reject the PR.
+    If any PR doesn't match the above requests, please feel free to reject the PR.
 -->
