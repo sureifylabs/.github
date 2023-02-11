@@ -1,11 +1,11 @@
 <!-- Please complete each section below the # lines, as applicable -->
 
 <!-- Simple description, 1-2 lines -->
-# Description 
+# Description
 
 
 <!-- Describe what changed -->
-# What's new? 
+# What's new?
 
 
 # Jira Link(s)
@@ -15,22 +15,21 @@
 # Demo / Screen Shot (as applicable)
 
 
-<!-- To complete the checklist, replace [ ] with [x].
-     For labels, choose at least one from 
-    - Ready for Review
-    - WIP
-    - don't merge  -->
+
+<!-- To complete the checklist, replace [ ] with [x]
+     or click the checkboxes after PR creation -->
 # PR Author Checklist
 - [ ] Unit tests added, already exist, or are not applicable
 - [ ] Added necessary label(s)
 - [ ] Assigned corresponding reviewer(s)
 
-<!--
-    If you still think this PR is not yet ready to be assigned to reviewer(s), "Create a Draft PR". 
-    https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request
--->
+## Author Notes
+- Add label for least one of:
+    - Ready for Review
+    - WIP
+    - don't merge
+- If the PR is not yet ready to be assigned to reviewers [Create a Draft PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request#converting-a-pull-request-to-a-draft)
+- If a reviewer comments on something that could have been caught by a lint rule, either add that rule to the linter, or create a Jira ticket to add it.
 
-<!--
-    Notes to reviewers:
-    If any PR doesn't match the above requests, please feel free to reject the PR.
--->
+## Reviewer Notes
+If any PR doesn't meet the above standards, please feel free to reject the PR. :evil-laugh:
