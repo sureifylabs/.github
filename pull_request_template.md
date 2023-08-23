@@ -22,6 +22,7 @@
 - [ ] Unit tests added, already exist, or are not applicable
 - [ ] Added necessary label(s)
 - [ ] Assigned corresponding reviewer(s)
+- [ ] Updated README / CHANGELOG (if applicable)
 
 ## Author Notes
 - Add label for least one of:
