@@ -1,22 +1,12 @@
-<!-- Please complete each section below the # lines, as applicable -->  
+# Description (_Why_ we're making the change)
 
-<!-- Simple description, 1-2 lines -->  
-# Description (**Why** we're making the change)
-
-
-<!-- Describe what changed -->  
-# What's changed? (summarize the code change)
-
+# What's changed? (Summary of code change)
 
 # Jira Link(s)
 
-
-<!-- Add short screen recordings or screen shots -->  
 # Demo / Screen Shot (as applicable)
 
-
-<!-- To complete the checklist, replace [ ] with [x]  
-     or click the checkboxes after PR creation -->  
+<!-- To complete the checklist, replace [ ] with [x]  or click the checkboxes after PR creation -->  
 # PR Author Checklist
 Please consider every checkbox -- if it's **done OR not applicable**, check the box!
 - [ ] Unit tests added/updated
@@ -35,4 +25,4 @@ Please consider every checkbox -- if it's **done OR not applicable**, check the 
 - If a reviewer comments on something that could have been caught by a lint rule, either add that rule to the linter, or create a Jira ticket to add it.
 
 ## Reviewer Notes
-If the PR doesn't meet the above standards, please feel free to reject it. 👎 
+If the PR doesn't meet the above standards 👎 please add a review to "Request changes". 
